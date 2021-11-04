@@ -7,11 +7,19 @@ Ini adalah tampilannya
 ![Gambar 1](s1.png)
 
 ### Lab 1
-Kodingan Lab 1 "<p>"
+Gambar Lab 1 "<p>"
 Output
 ![1](SS/0.png)
 ![2](SS/1.png)
 
 ### Lab 2
-Kodingan Lab 2 "<p>"
+Gambar Lab 2 "<p>"
 ![3](SS/2.png)
+
+### Rumus Lingkaran
+Gambar Rumus Lingkaran "<p>"
+![4](SS/lingkaran.png)
+
+### Flowchart Lingkaran
+Flowchart Rumus Lingkaran "<p>"
+![Flow](SS/flowchart1.png)
