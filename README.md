@@ -22,4 +22,4 @@ Gambar Rumus Lingkaran "<p>"
 
 ### Flowchart Lingkaran
 Flowchart Rumus Lingkaran "<p>"
-![Flow](SS/flowchart1.png)
+![Flow](SS/Flowchart1.png)
