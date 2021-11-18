@@ -1,25 +1,23 @@
 # Putri-Fadyra
-## Belajar Tag Dasar HTML
+# Latihan 1
+Buat program sederhada dengan input 2 buah bilangan, kemudian
+tentukan bilangan terbesar dari kedua bilangan tersebut
+menggunakan statement if."<p>"
 
-### Membuat Paragraf 
-Kode tag untuk paragraf adalah "<p>"
-Ini adalah tampilannya
-![Gambar 1](s1.png)
+ ## Kodingan 
+ ![img]SS/perulangan.png
 
-### Lab 1
-Gambar Lab 1 "<p>"
-Output
-![1](SS/0.png)
-![2](SS/1.png)
+## Output
+![img]SS/perulangan1.png 
 
-### Lab 2
-Gambar Lab 2 "<p>"
-![3](SS/2.png)
+# Latihan 2
+ Buat program untuk mengurutkan data berdasarkan input sejumlah
+data (minimal 3 variable input atau lebih), kemudian tampilkan
+hasilnya secara berurutan mulai dari data terkecil. "<p>"
 
-### Rumus Lingkaran
-Gambar Rumus Lingkaran "<p>"
-![4](SS/lingkaran.png)
+## Kodingan "<p>"
+ ![img]SS/urutdata.png
 
-### Flowchart Lingkaran
-Flowchart Rumus Lingkaran "<p>"
-![Flow](SS/Flowchart1.png)
+## Output "<p>"
+![img]SS/urutdata1.png 
+
