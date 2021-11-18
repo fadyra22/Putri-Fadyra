@@ -21,3 +21,26 @@ hasilnya secara berurutan mulai dari data terkecil. "<p>"
 ## Output 
 ![img](SS/urutdata1.png) 
 
+
+# Nested
+Latihan 1
+• Buat program dengan perulangan bertingkat (nested) for yang
+menghasilkan output sebagai berikut:
+
+## Kodingan
+![img](SS/nes.png)
+
+## Output
+![img](SS/nes1.png)
+
+Latihan 2
+
+Tampilkan n bilangan acak yang lebih kecil dari 0.5.
+nilai n diisi pada saat runtime
+anda bisa menggunakan kombinasi while dan for untuk menyelesaikannya
+
+## Kodingan
+![img](SS/bil.png)
+
+## Output
+![img](SS/bil1.png)
