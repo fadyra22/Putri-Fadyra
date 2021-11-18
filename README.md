@@ -25,7 +25,7 @@ hasilnya secara berurutan mulai dari data terkecil. "<p>"
 # Nested
 Latihan 1
 • Buat program dengan perulangan bertingkat (nested) for yang
-menghasilkan output sebagai berikut:
+menghasilkan output sebagai berikut: "<p>"
 
 ## Kodingan
 ![img](SS/nes.png)
@@ -37,7 +37,7 @@ Latihan 2
 
 Tampilkan n bilangan acak yang lebih kecil dari 0.5.
 nilai n diisi pada saat runtime
-anda bisa menggunakan kombinasi while dan for untuk menyelesaikannya
+anda bisa menggunakan kombinasi while dan for untuk menyelesaikannya "<p>"
 
 ## Kodingan
 ![img](SS/bil.png)
